@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfd451f47263c554f869fcda23679a24
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - visionSnapperMaterial: {fileID: 2100000, guid: 4135e7160a3ee0544b56a854f45a90e3,
+      type: 2}
+  - yRotator: {instanceID: 0}
+  - cameraObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

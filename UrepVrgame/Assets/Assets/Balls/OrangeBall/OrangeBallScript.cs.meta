@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3ae1319783c36144189f5a59712e89aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - orangeBall: {fileID: 7640159125889088583, guid: 852a1138af79d344ea2073b7873de005,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
