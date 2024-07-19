@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/Ball-Hunting-Game/UrepVrgame/[Ll]ibrary/
-/Ball-Hunting-Game/UrepVrgame/[Tt]emp/
-/Ball-Hunting-Game/UrepVrgame/[Oo]bj/
-/Ball-Hunting-Game/UrepVrgame/[Bb]uild/
-/Ball-Hunting-Game/UrepVrgame/[Bb]uilds/
-/Ball-Hunting-Game/UrepVrgame/[Ll]ogs/
-/Ball-Hunting-Game/UrepVrgame/[Mm]emoryCaptures/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
